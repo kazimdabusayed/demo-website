@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    color: rgb(62, 102, 194);
+}
+div h1{
+    text-align: center;
+}
